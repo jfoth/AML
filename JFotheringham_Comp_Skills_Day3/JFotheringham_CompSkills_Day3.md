@@ -18,7 +18,7 @@ The data table ["*391 - Highest and Lowest Temperatures by State Through 2003"*]
 
 >**Contents of Data Table:** 
 
-The data table contains data relating to the highest and lowest recorded temperatures (F<sup>o</sup>) of each state in the United States of America. Data is sourced (non-consecutively) between 1885 and 2010. The temperature values are recorded as attributes of their State and include related information regarding the weather station where the recording was made, the date: *day, month, year* and annotations for max. and min. temperatures also recorded in other locations at earlier dates.
+The data table contains data relating to the highest and lowest recorded temperatures (<sup>o</sup>F) of each state in the United States of America. Data is sourced (non-consecutively) between 1885 and 2010. The temperature values are recorded as attributes of their State and include related information regarding the weather station where the recording was made, the date: *day, month, year* and annotations for max. and min. temperatures also recorded in other locations at earlier dates.
 
 > **Data Preparation Process:** 
 
