@@ -1,0 +1,60 @@
+Table with row headers in column A and column headers in rows 3 and 4.  Leading dots indicate sub-parts.,Column 2,Column 3,Column 5 1,Column 5 1 2,Column 5 1 1,Column 5 2,Column 6,Column 7,Column 9 1,Column 9 1 2,Column 9 1 1,Column 9 2
+Table 391. Highest and Lowest Temperatures by State Through 2010,,,,,,,,,,,,
+State,                    Highest temperatures,,,,,,                    Lowest temperatures,,,,,
+,Station,Temperature (F),Also on earlier dates at the same or other places. (\1),Day,Month,Year,Station,Temperature (F),Also on earlier dates at the same or other places. (\1),Day,Month,Year
+Alabama,Centerville,112,,5,9,1925,New Market,-27,,30,01,1966
+Alaska,Fort Yukon,100,\1,27,6,1915,Prospect Creek Camp,-80,,23,01,1971
+Arizona,Lake Havasu City,128,,29,6,1994,Hawley Lake,-40,,7,01,1971
+Arkansas,Ozark,120,,10,8,1936,Pond,-29,,13,02,1905
+California,Greenland Ranch,134,,10,7,1913,Boca,-45,,20,01,1937
+Colorado,Sedgwick,114,\1,11,7,1954,Maybell,-61,,1,02,1985
+Connecticut,Danbury,106,\1,15,7,1995,Coventry,-32,\1,22,01,1961
+Delaware,Millsboro,110,,21,7,1930,Millsboro,-17,,17,01,1893
+Florida,Monticello,109,,29,6,1931,Tallahassee,-2,,13,02,1899
+Georgia,Greenville 2 NNW,112,\1,20,8,1983,CCC Camp F-16,-17,\1,27,01,1940
+Hawaii,Pahala,100,,27,4,1931,Mauna Kea Obs. 111.2,12,,17,05,1979
+Idaho,Orofino,118,,28,7,1934,Island Park Dam,-60,,18,01,1943
+Illinois,East St. Louis,117,,14,7,1954,Congerville,-36,,5,01,1999
+Indiana,Collegeville,116,,14,7,1936,New Whiteland,-36,,19,01,1994
+Iowa,Keokuk,118,,20,7,1934,Elkader,-47,\1,3,02,1996
+Kansas,Alton ,121,,24,7,1936,Lebanon,-40,,13,02,1905
+Kentucky,Greensburg,114,,28,7,1930,Shelbyville,-37,,19,01,1994
+Louisiana,Plain Dealing,114,,10,8,1936,Minden,-16,,13,02,1899
+Maine,North Bridgton,105,,10,7,1911,Van Buren,-50,,16,01,2009
+Maryland,Cumberland & Frederick,109,\1,10,7,1936,Oakland,-40,,13,01,1912
+Massachusetts,New Bedford & Chester,107,\1,2,8,1975,Chester,-35,\1,12,01,1981
+Michigan,Mio,112,,13,7,1936,Vanderbilt,-51,,9,02,1934
+Minnesota,Beardsley,115,,29,7,1917,Tower,-60,,2,02,1996
+Mississippi,Holly Springs,115,,29,7,1930,Corinth,-19,,30,01,1966
+Missouri,Warsaw & Union,118,\1,14,7,1954,Warsaw,-40,,13,02,1905
+Montana,Medicine Lake,117,\1,5,7,1937,Rogers Pass,-70,,20,01,1954
+Nebraska,Minden,118,\1,24,7,1936,Oshkosh,-47,\1,22,12,1989
+Nevada,Laughlin,125,\1,29,6,1994,San Jacinto,-50,,8,01,1937
+New Hampshire,Nashua,106,,4,7,1911,Mt. Washington,-50,,22,01,1885
+New Jersey,Runyon,110,,10,7,1936,River Vale,-34,,5,01,1904
+New Mexico,Waste Isolat Pilot Plant,122,,27,6,1994,Gavilan,-50,,1,02,1951
+New York,Troy,108,,22,7,1926,Old Forge,-52,,18,02,1979
+North Carolina,Fayetteville,110,,21,8,1983,Mt. Mitchell,-34,,21,01,1985
+North Dakota,Steele,121,,6,7,1936,Parshall,-60,,15,02,1936
+Ohio,Gallipolis (near),113,,21,7,1934,Milligan,-39,,10,02,1899
+Oklahoma,Tipton,120,\1,27,6,1994,Guthrie,-27,\1,4,01,1947
+Oregon,Pendleton,119,\1,10,8,1898,Seneca,-54,\1,10,02,1933
+Pennsylvania,Phoenixville,111,,10,7,1936,Smethport,-42,\1,5,01,1904
+Rhode Island,Providence,104,,2,8,1975,Greene,-28,,11,01,1942
+South Carolina,Camden,111,\1,28,6,1954,Caesars Head,-19,,21,01,1985
+South Dakota,Fort Pierre,120,\1,15,7,2006,McIntosh,-58,,17,02,1936
+Tennessee,Perryville,113,,9,8,1930,Mountain City,-32,,30,12,1917
+Texas,Monahans,120,\1,28,6,1994,Seminole,-23,,8,02,1933
+Utah,Saint George,117,,5,7,1985,Peter's Sink,-50,,5,01,1913
+Vermont,Vernon,107,,7,7,1912,Bloomfield,-50,,30,12,1933
+Virginia,Balcony Falls,110,\1,15,7,1954,Mtn. Lake Bio. Stn. ,-30,,22,01,1985
+Washington,Ice Harbor Dam,118,\1,5,8,1961,Mazama & Winthrop,-48,\1,30,12,1968
+West Virginia,Martinsburg,112,\1,10,7,1936,Lewisburg,-37,,30,12,1917
+Wisconsin,Wisconsin Dells,114,,13,7,1936,Couderay,-55,,4,02,1996
+Wyoming,Diversion Dam,115,\1,5,3,1998,Riverside R.S.,-66,,9,02,1933
+FOOTNOTE:,,,,,,,,,,,,
+\1 Also on earlier dates at the same or other places.,,,,,,,,,,,,
+"Source: U.S. National Oceanic and Atmospheric Administration, National Environmental Satellite, Data,  and Information Services (NESDIS), National Climatic Data Center (NCDC), Maximum and minumum temperature extremes.",,,,,,,,,,,,
+For more information:,,,,,,,,,,,,
+http://www.ncdc.noaa.gov/extremes/scec/searchrecs.php,,,,,,,,,,,,
+Internet release date: 09\30\2011,,,,,,,,,,,,
